@@ -1,0 +1,28 @@
+10
+##start
+spot0 0 0
+spot1 1 1
+spot2 2 2
+##end
+spot3 3 3
+spot4 4 4
+spot5 5 5
+spot6 6 6
+spot7 7 7
+spot8 8 8
+spot9 9 9
+spot10 10 10
+spot11 11 11
+spot0-spot4
+spot4-spot5
+spot5-spot6
+spot6-spot7
+spot7-spot2
+spot0-spot1
+spot1-spot2
+spot2-spot3
+spot1-spot8
+spot8-spot9
+spot9-spot10
+spot10-spot11
+spot11-spot3
